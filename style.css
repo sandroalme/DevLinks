@@ -23,6 +23,8 @@
     --highlight-color: rgba(0, 0, 0, 0.1);
     --switch-bg-url: url(./assets/sun.svg);
 }
+
+hajd
   
 body {
     background: var(--bg-url) no-repeat top center/cover;
